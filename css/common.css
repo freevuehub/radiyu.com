@@ -1,0 +1,51 @@
+.flex {
+  display: flex;
+}
+.block {
+  display: block;
+}
+.none {
+  display: none;
+}
+
+.fill.height {
+  height: 100%;
+}
+.fill.width {
+  width: 100%;
+}
+.fill.height.view {
+  height: 100vh;
+}
+.fill.width.view {
+  width: 100vw;
+}
+.fill.height.min {
+  min-height: 100%;
+}
+.fill.width.min {
+  min-width: 100%;
+}
+.fill.height.min.view {
+  min-height: 100vh;
+}
+.fill.width.min.view {
+  min-width: 100vw;
+}
+
+.fw-100 {
+  font-weight: 100;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-700 {
+  font-weight: 700;
+}
+
+.ai-center {
+  align-items: center;
+}
+.jc-center {
+  justify-content: center;
+}
